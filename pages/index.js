@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          This Page is owned By NDUGGI{' '}
+          This Page is owned By NDUGGI
           <code className={styles.code}>pages/index.js</code>
         </p>
 
