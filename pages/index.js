@@ -1,3 +1,5 @@
+
+
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
@@ -17,11 +19,10 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          This Page is owned By NDUGGI
-          
+          Page owned by <a href="https://github.com/afreakyelf" className={styles.card}>rajatm</a>
         </p>
 
- <p className={styles.description}>
+         <p className={styles.description}>
           <a href="chess" className={styles.card}>Play chess</a>
         </p>
 
