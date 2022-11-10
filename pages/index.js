@@ -19,7 +19,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Page owned by <a href="https://github.com/afreakyelf" className={styles.card}>rajatm</a>
+          Page owned by <a href="https://github.com/Duggi-Niharika-Sai-06" className={styles.card}>Neethu</a>
         </p>
 
          <p className={styles.description}>
