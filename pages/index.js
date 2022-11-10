@@ -19,11 +19,11 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Page owned by <a href="https://github.com/Duggi-Niharika-Sai-06" className={styles.card}>Neethu</a>
+        Helloo!  Page owned by <a href="https://github.com/Duggi-Niharika-Sai-06" className={styles.card}>Neethu</a>
         </p>
 
          <p className={styles.description}>
-          <a href="chess" className={styles.card}>Play chess</a>
+          <a href="chess" className={styles.card}>Come onn!  Play chess</a>
         </p>
 
         <div className={styles.grid}>
