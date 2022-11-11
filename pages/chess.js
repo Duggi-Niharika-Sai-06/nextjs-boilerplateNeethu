@@ -1,6 +1,6 @@
 import styles from '../styles/Chess.module.css';
 
-import * as Chess from "js-chess-engine";
+import * as Chess from 'js-chess-engine';
 
 export default function ChessPage() {
     // Tell React to put a div down that is
